@@ -38,4 +38,3 @@ The API will be available at `http://localhost:3000`
 
 Once running, you can access the API documentation at:
 - Swagger UI: `/docs`
-- ReDoc: `/redoc`
